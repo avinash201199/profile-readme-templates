@@ -6,6 +6,7 @@
 [Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
 [Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
 [Avinash Singh](https://github.com/avinash201199/avinash201199) <br>
+[Bill Chan](https://github.com/billpwchan)<br>
 [Jonah Lawrence](https://github.com/DenverCoder1/DenverCoder1)<br>
 [Pravash Purkayastha](https://github.com/darecoder-git/darecoder-git) <br>
 [Rahul Dhanola](https://github.com/DHANOLA/DHANOLA)<br>
