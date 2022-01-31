@@ -4,6 +4,7 @@
 
 [Anshika](https://github.com/ANSHIKA1806/ANSHIKA1806) <br>
 [Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
+[Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
 [Avinash Singh](https://github.com/avinash201199/avinash201199) <br>
 [Jonah Lawrence](https://github.com/DenverCoder1/DenverCoder1)<br>
 [Pravash Purkayastha](https://github.com/darecoder-git/darecoder-git) <br>
