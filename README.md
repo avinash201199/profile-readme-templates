@@ -6,5 +6,6 @@
 [Avinash Singh](https://github.com/avinash201199/avinash201199) <br>
 [Jonah Lawrence](https://github.com/DenverCoder1/DenverCoder1)<br>
 [Pravash Purkayastha](https://github.com/darecoder-git/darecoder-git) <br>
+[Rahul Dhanola](https://github.com/DHANOLA/DHANOLA)<br>
 [RidhamRj](https://github.com/RidhamRj/RidhamRj)<br>
 [TANNISTHA PAL](https://github.com/paltannistha/paltannistha)<br>
