@@ -7,6 +7,7 @@
 [Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
 [Avinash Singh](https://github.com/avinash201199/avinash201199) <br>
 [Bill Chan](https://github.com/billpwchan)<br>
+[Chinmay Sonawane](https://github.com/chinmay29hub)
 [Hemant Joshi](https://github.com/bornmay)<br>
 [Jonah Lawrence](https://github.com/DenverCoder1/DenverCoder1)<br>
 [Pravash Purkayastha](https://github.com/darecoder-git/darecoder-git) <br>
