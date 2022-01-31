@@ -1,6 +1,6 @@
 # Profile-readme-templates
 
-#### This repository contains the collection of some good profile readme . With the help of these you can make your own attractive profile readme.<br> You can contribute to this repository by adding your's or any other's profile readme.
+#### This repository contains the collection of some good profile readme . With the help of these you can make your own attractive profile readme.You can contribute to this repository by adding your's or any other's profile readme.
 
 [Anshika](https://github.com/ANSHIKA1806/ANSHIKA1806) <br>
 [Avinash Singh](https://github.com/avinash201199/avinash201199) <br>
