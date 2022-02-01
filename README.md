@@ -2,8 +2,11 @@
 
 #### This repository contains the collection of some good profile readme . With the help of these you can make your own attractive profile readme.You can contribute to this repository by adding your's or any other's profile readme.
 
+<hr>
+
 ![pro](https://user-images.githubusercontent.com/61057666/151926258-66aa5f0d-4ce3-4313-a81d-16b0c56b9aee.jpeg)
 
+<hr>
 
 #### How to contribute 
 
