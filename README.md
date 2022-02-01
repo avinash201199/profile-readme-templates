@@ -7,7 +7,7 @@
 * Star this repo
 * fork this repo
 * Add md file with user name 
-* Also update the readme.md file by giving the link of the profile
+* Also update the readme.md file by giving the link of the profile as given belove
 
 
 [Anshika](https://github.com/ANSHIKA1806/) <br>
