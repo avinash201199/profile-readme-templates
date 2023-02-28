@@ -13,7 +13,6 @@
 * Also update the readme.md file by giving the link of the profile as given belove
 
 
-[Anshika](https://github.com/ANSHIKA1806/) <br>
 [Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
 [Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
 [Avinash Singh](https://github.com/avinash201199/) <br>
