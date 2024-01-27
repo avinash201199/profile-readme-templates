@@ -17,7 +17,6 @@
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/83d7d3ac-1bb8-4e87-94be-cc090fd1ecba)
 
 
-
 [Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/23757a4b-ee94-432d-bc09-dbe098ef86bd)
 
@@ -27,11 +26,14 @@
 
 
 [Bill Chan](https://github.com/billpwchan)<br>
-[Chinmay Sonawane](https://github.com/chinmay29hub)<br>
-[Hemant Joshi](https://github.com/bornmay)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/b2e65e27-1b36-4fe5-ba91-832c98d823d7)
+
 [Jonah Lawrence](https://github.com/DenverCoder1/)<br>
-[Pravash Purkayastha](https://github.com/darecoder-git/) <br>
-[Rahul Dhanola](https://github.com/DHANOLA/)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/e4103981-89e4-473b-9b33-8814af02e5e0)
+
 [RidhamRj](https://github.com/RidhamRj/)<br>
-[TANNISTHA PAL](https://github.com/paltannistha/)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/133eb5f8-53e9-4b8c-8483-511244e599c1)
+
 [Waren Gonzaga](https://github.com/WarenGonzaga) <br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/bbbf5f4c-f994-4166-bf05-5d109decce99)
+
