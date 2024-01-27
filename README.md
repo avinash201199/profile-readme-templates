@@ -14,10 +14,15 @@
 
 
 [Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
-![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/3d0687bd-7b2c-4813-95cd-a787f2dcfbb4)
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/aee70313-6431-4cad-9216-d331495dbc9e)
+
 
 [Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/89140f4f-2efa-41e5-9043-c9c5bf72aa56)
+
 [Avinash Singh](https://github.com/avinash201199/) <br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/618223ed-e068-4e2f-a828-fc43086017dd)
+
 [Bill Chan](https://github.com/billpwchan)<br>
 [Chinmay Sonawane](https://github.com/chinmay29hub)<br>
 [Hemant Joshi](https://github.com/bornmay)<br>
