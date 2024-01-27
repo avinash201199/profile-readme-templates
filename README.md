@@ -14,28 +14,41 @@
 * To capture larger screen you can minimize the screen by pressing ctrl "+" - 
 * create pull request and wait for approval.
 
+<hr>
 
 [Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/83d7d3ac-1bb8-4e87-94be-cc090fd1ecba)
 
+<hr>
 
 [Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/23757a4b-ee94-432d-bc09-dbe098ef86bd)
 
+<hr>
 
 [Avinash Singh](https://github.com/avinash201199/) <br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/dd8cdb18-eb8b-45ca-a707-b8c37c0d8486)
 
+<hr>
 
 [Bill Chan](https://github.com/billpwchan)<br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/b2e65e27-1b36-4fe5-ba91-832c98d823d7)
 
+<hr>
+
 [Jonah Lawrence](https://github.com/DenverCoder1/)<br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/e4103981-89e4-473b-9b33-8814af02e5e0)
+
+<hr>
+
 
 [RidhamRj](https://github.com/RidhamRj/)<br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/133eb5f8-53e9-4b8c-8483-511244e599c1)
 
+<hr>
+
 [Waren Gonzaga](https://github.com/WarenGonzaga) <br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/bbbf5f4c-f994-4166-bf05-5d109decce99)
+
+<hr>
 
