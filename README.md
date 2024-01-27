@@ -7,8 +7,8 @@
 
 #### How to contribute 
 
-* Star this repo
-* fork this repo
+* Star this repository
+* fork 
 * Add md file with user name 
 * Also update the readme.md file by giving the link of the profile as given belove
 
