@@ -9,8 +9,8 @@
 
 * Star this repository
 * fork 
-* Add links to your profile readme with screenshots.
-* create pull request and wait for approval
+* Add links to your profile readme with screenshots(to take screenshot press window + shift + s , and paste below the profile readme link)
+* create pull request and wait for approval.
 
 
 [Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
