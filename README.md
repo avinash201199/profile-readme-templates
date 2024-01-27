@@ -8,7 +8,8 @@
 #### How to contribute 
 
 * Star this repository
-* fork 
+* fork
+* create an issue and wait for approval.
 * Add links to your profile readme with screenshots(to take screenshot press window + shift + s , and paste below the profile readme link)
 * To capture larger screen you can minimize the screen by pressing ctrl "+" - 
 * create pull request and wait for approval.
