@@ -14,6 +14,8 @@
 
 
 [Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/3d0687bd-7b2c-4813-95cd-a787f2dcfbb4)
+
 [Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
 [Avinash Singh](https://github.com/avinash201199/) <br>
 [Bill Chan](https://github.com/billpwchan)<br>
