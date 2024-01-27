@@ -9,8 +9,8 @@
 
 * Star this repository
 * fork 
-* Add md file with user name 
-* Also update the readme.md file by giving the link of the profile as given belove
+* Add links to your profile readme with screenshots.
+* create pull request and wait for approval
 
 
 [Aleksey Voko](https://github.com/Aleksey-Voko/)<br>
