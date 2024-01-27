@@ -22,6 +22,10 @@
 
 <hr>
 
+[Anmol Baranwal](https://github.com/Anmol-Baranwal)
+![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/e7902f2f-7e3d-4140-ae28-2f4f5f65c661)
+
+
 [Apoorv Tyagi](https://github.com/ApoorvTyagi)<br>
 ![image](https://github.com/avinash201199/profile-readme-templates/assets/61057666/23757a4b-ee94-432d-bc09-dbe098ef86bd)
 
