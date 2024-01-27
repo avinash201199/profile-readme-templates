@@ -11,7 +11,7 @@
 * create an issue and wait for approval.
 * Fork this repo after approval.
 * Add your profile readme file in Profile Readme Template folder
-* Add links to your profile readme with screenshots in this readme(to take screenshot press window + shift + s , and paste below the profile readme link)
+* We will add your profile readme details on this main readme by ourself(If we find it attractive or compelling)
 * To capture larger screen you can minimize the screen by pressing ctrl "+" - 
 * create pull request and wait for approval.
 
