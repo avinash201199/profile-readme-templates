@@ -4,7 +4,7 @@
 
 I'm a passionate **Application developer** with a love for creating intuitive and beautiful app experiences.
 
-* 🌱 I'm currently learning **Kotlin** and **Reactive Native**.
+* 🌱 I'm currently learning **Kotlin** and **React Native**.
 * 👯 I'm looking to collaborate on **open-source projects** and projects related to **AI**.
 * 💬 Ask me about Application development.
 
