@@ -36,7 +36,7 @@
       </td>
       <td width="100" border: none></td> <!-- nice clean space -->
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahitya1903&theme=github_dark" width="280"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahitya1903&theme=dark" width="280"/>
       </td>
     </tr>
   </table>
