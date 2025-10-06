@@ -17,5 +17,5 @@
 ### 📬 Email: [anishnagubandi7@gmail.com](mailto:anishnagubandi7@gmail.com)
 ### 💼 LinkedIn: [Anish Nagubandi](https://www.linkedin.com/in/anishnagubandi)
 
-## 💬 Quote that i personally like:
+## 💬 Quote that I personally like:
 ### “Today is cruel. Tomorrow is crueler. And the day after tomorrow is beautiful.”
