@@ -1,119 +1,141 @@
 ![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Piyush+Kumar!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Piyush+Kumar!;" />
 </h1>
 
-<h3 align="center">A passionate FullStack Developer 💻 from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-kumar&label=Profile%20Visitor&color=0e75b6&style=flat" alt="piyush-kumar" /> </p>
+<div align="center">
+  <table style="width:100%; border: none;">
+    <tr>
+      <td align="left" style="border:none;">
+        <img src="https://komarev.com/ghpvc/?username=Piyush-Kumar62&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+      </td>
+      <td align="right" style="border:none;">
+        <h3>💻 Full Stack Developer | Open Source Contributor | Cloud & AI Enthusiast ☁️</h3>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left"> <a href="https://twitter.com/piyush_kumar6" target="blank"><img src="https://img.shields.io/twitter/follow/piyush_kumar6?logo=twitter&style=for-the-badge" alt="piyush_kumar6" /></a> </p>
+<hr>
 
-- 🌍 I'm based in India
-- 🧠 I’m currently learning **Web Development with Different Stacks.**
-- 🤝  I'm open to collaborating on Interesting Full Stack Projects.
-- 📫 How to reach me **piyushkumar30066@gmail.com**
-- ⚡ Fun fact **I think I am funny**
+### 📝 Professional Summary
+B.Tech (ECE) student passionate about **full-stack development, cloud computing, and AI-integrated software**.  
+Specialized in **Software Technology** with hands-on expertise in **Spring Boot, Angular, Advanced Java, RESTful APIs**, and modern web technologies.  
+Skilled in building **scalable, maintainable, high-performance applications** and contributing to **open-source projects**.  
+Actively seeking opportunities in **full-stack development, cloud-native apps, and innovative software solutions**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/piyush-kumar62/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush kumar" height="30" width="40" />
-</a>
-<a href="https://twitter.com/piyush_kumar6" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush_kumar6" height="30" width="40" />
-</a>
-<a href="https://instagram.com/piyushraj_66" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushraj_66" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/channel/UCX-rQC59W5X6SSfE9t97aNw" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech piyush" height="30" width="40" />
-</a>
+<hr>
+<img align="right" alt="Coding" width="200" height="200"
+     src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="object-fit:cover; border-radius:8px;">
+
+
+### 🚀 About Me
+- 🌍 Based in **India**  
+- 🎓 **B.Tech (ECE), 7th Semester** – Specialization: **Software Technology**  
+- 💡 Passionate about **Web Development, Cloud, AI & Scalable Software Design**  
+- 🧩 Contributor @ **Hacktoberfest 2025**  
+- ⚡ Fun fact: I enjoy refining software until it’s perfect 🔁  
+
+<hr>
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-kumar62/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/PIYUSH_KUMAR6" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:piyushkumar30066@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">⚡ Love for Programming:</h3>
-<div align="left">
-  <!-- Existing technologies -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<hr>
+
+### ⚡ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,angular,react,ts,tailwind,python,flutter,mysql,git,linux,gcp&theme=dark" />
+</p>
+
+<hr>
+
+### 🏆 Achievements & Highlights
+- 🥇 **Hacktoberfest 2025** – Open Source Contributor  
+- 💻 Developing **Smart Fitness App** – Angular & Spring Boot full-stack project  
+- 🚀 Building **AI-powered Web Applications** using modern frameworks  
+
+<!--<hr>
+
+### 📂 Projects
+| Project | Tech Stack | Link |
+|---------|------------|------|
+| Smart Fitness App | Angular, Spring Boot, MySQL | [GitHub](#) |
+| AI Web Assistant | React, Python, Flask | [GitHub](#) |
+| Cloud Deployment Demo | GCP, Docker | [GitHub](#) |-->
+
+<hr>
+
+### 🧑‍💻 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/Piyush-Kumar62">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar62&show_icons=true&theme=tokyonight&hide_border=false&border_color=FFD700&rank_icon=github&count_private=true" alt="Piyush's GitHub Stats" />
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  <a href="https://github.com/Piyush-Kumar62">
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-Kumar62&theme=tokyonight&hide_border=false&border_color=FFD700" alt="Piyush's GitHub Streak" />
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Piyush-Kumar62">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar62&layout=compact&theme=tokyonight&hide_border=false&border_color=FFD700&langs_count=8" alt="Top Languages" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://github.com/Piyush-Kumar62" target="_blank" rel="noopener noreferrer">
+    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=Piyush-Kumar62&theme=tokyonight&no-frame=false&border_color=FFD700&margin-w=10&row=2&column=4" alt="GitHub trophies for Piyush-Kumar62">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <!-- New additions -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubeflow" width="40" height="40"/>
+</p>
+<hr>
+<h3 align="left">📊 Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/Piyush-Kumar62">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush-Kumar62&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush-Kumar62&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush-Kumar62&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyush-Kumar62&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush-Kumar62&theme=2077" height="180em" />
   </a>
 </div>
 
-<h3 align="left">📊 Activity Graph:</h3>
+<hr>
 
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <p align="left">
-    <a href="https://github.com/Piyush-Kumar62">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyush-Kumar62&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Piyush-Kumar62" />
-    </a>
-  </p>
-</div>
+### 🌱 Hacktoberfest & Open Source Journey
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://github.com/Piyush-Kumar62" style="display: inline-block; margin: 0 10px;">
-    <img src="https://camo.githubusercontent.com/c8db312729f4810de37ae1598af99b7a36d58afaa0d83ab857a721d40dcf0e7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5069797573682d4b756d617236322673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d746f6b796f6e69676874" alt="Piyush-Kumar62 Profile Visits" />
-  </a>
-  <a href="https://github.com/Piyush-Kumar62" style="display: inline-block; margin: 0 10px;">
-    <img src="https://camo.githubusercontent.com/07679e61b10bbccd5787330e5ade88ff3873a2618f59ad82756713044bf014b9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5069797573682d4b756d6172363226267468656d653d746f6b796f6e69676874" alt="Piyush-Kumar62 Contributions" />
-  </a>
-</div>
+- 🧩 Contributing to **open-source web and cloud projects**  
+- 💬 Collaborating globally to **build impactful software**  
+- 🌍 Sharing knowledge & empowering dev communities  
+
+<hr>
+
+### 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-Kumar62&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+<hr>
+
+### 💬 Quote That Drives Me
+> *“Dream it. Build it. Ship it. Repeat.”* — **Piyush Kumar** 🚀  
+
+<hr>
+
+### 📨 Reach Me At
+📧 **piyushkumar30066@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/piyush-kumar62/)** | 🧑‍💻 **[Portfolio Coming Soon](#)**  
+
+<hr>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=300&height=70&duration=3000&lines=Thanks+for+Visiting!+❤️;+Shoot+Me+a+Message+on+Linkedin!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=450&height=70&duration=3000&lines=Thanks+for+visiting!+❤️;Let's+connect+and+build+something+awesome!;Keep+Coding+🚀" />
 </h1>
