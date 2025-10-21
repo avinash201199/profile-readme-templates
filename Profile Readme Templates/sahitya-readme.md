@@ -50,7 +50,8 @@
 </div>
 
 ---
-
+## 🌟 Hacktoberfest 2025 Badges
+[![An image of @sahitya1903's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahitya1903)](https://holopin.io/@sahitya1903)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Always%20building,%20always%20learning..😊&fontSize=30&animation=twinkling&fontAlignY=40)
 
