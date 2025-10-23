@@ -1,5 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
 
+<hr>
+<p align="center">
+  <a href="https://holopin.io/@piyushkumar62">
+    <img src="https://holopin.me/piyushkumar62" alt="@piyushkumar62's Hacktoberfest Badges" />
+  </a>
+</p>
+<hr>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Piyush+Kumar!;" />
 </h1>
